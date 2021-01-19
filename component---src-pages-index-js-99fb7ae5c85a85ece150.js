@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(n,t,e){"use strict";e.r(t);var a=e("q1tI");t.default=function(){var n=Object(a.useState)(""),t=n[0],e=n[1];return Object(a.useEffect)((function(){fetch("https://random-data-api.com/api/bank/random_bank").then((function(n){return n.json()})).then((function(n){return e(n)}))}),[]),a.createElement("main",null,JSON.stringify(t))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-99fb7ae5c85a85ece150.js.map
